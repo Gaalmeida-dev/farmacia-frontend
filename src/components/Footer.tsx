@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { Pill, Heart} from "lucide-react";
+import { Pill} from "lucide-react";
 
 export default function Footer(){
     return(
